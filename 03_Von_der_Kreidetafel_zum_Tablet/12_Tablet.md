@@ -1,6 +1,6 @@
 <!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/tablet -->
 <!-- slug: tablet -->
-<!-- filename: 15_Tablet.md -->
+<!-- filename: 12_Tablet.md -->
 <!-- title: Tablet -->
 
 Tablet-Computer haben sich zu zentralen Geräten im Bildungsbereich entwickelt. Sie vereinen Mobilität, einfache Bedienung und vielseitige Einsatzmöglichkeiten in einem kompakten Format. Durch ihre sofortige Einsatzbereitschaft, den geräuschlosen Betrieb und die intuitive Touchsteuerung eignen sie sich besonders für den flexiblen Einsatz im Unterricht.
