@@ -1,11 +1,15 @@
 <!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/pc-laptop-und-netbook -->
-<!-- slug: pc-laptop-und-netbook -->
-<!-- filename: 11_PC_Laptop_und_Netbook.md -->
-<!-- title: PC, Laptop und Netbook -->
+<!-- slug: pc-und-laptop -->
+<!-- filename: 11_PC_und_Laptop.md -->
+<!-- title: PC und Laptop -->
 
-Der erste elektronische Computer wurde um 1938-1945 von Konrad Zuse entwickelt. Der erste Laptop, ein mobiler Personal Computer, wurde im Jahr 1975 von IBM vorgestellt, der IBM 5100. Später, im Jahr 1980, kam der erste, wie uns heute bekannte, Laptop heraus (Flip-Form). Im Gegensatz zu früher kann man Laptops heute mit Stand-PCs vergleichen, da dieselbe Leistung auf immer kleineren Raum gebracht werden kann. Die kleinste Version eines Laptops wird heute als Netbook bezeichnet. Dieses hat oftmals nur eine geringe Leistung und wird daher eher als leichter Reisebegleiter verwendet.
+Die Entwicklung des Personal Computers geht unter anderem auf Arbeiten von Konrad Zuse in den 1930er- und 1940er-Jahren zurück. Seitdem hat sich der Computer von einem spezialisierten Rechengerät zu einem universellen Werkzeug für Kommunikation, Informationsverarbeitung und Lernen entwickelt.
 
-PCs und Laptops durchdringen immer mehr die Unterrichtsräume, die Zunahme an Netbooks kann ebenfalls immer mehr beobachtet werden (siehe Kapitel #schule). Kritische Stimmen meinten anfangs, dass man nun einen etwas besseren Taschenrechner hätte, aber die Vielfalt der Möglichkeiten, die sich dadurch ergeben, ist heute noch immer eine der wesentlichen Fragestellungen des Forschungsgebietes technologiegestütztes Lehren und Lernen.
+Neben klassischen Desktop-PCs haben sich insbesondere mobile Geräte etabliert. Laptops vereinen heute hohe Rechenleistung mit Mobilität und sind in ihrer Leistungsfähigkeit oft mit stationären Systemen vergleichbar. Ergänzend haben sich leichtere und kompaktere Geräteklassen entwickelt, die auf einfache Handhabung und flexible Nutzung ausgelegt sind.
+
+Computer sind mittlerweile fester Bestandteil vieler Unterrichtsszenarien. Sie ermöglichen den Zugang zu digitalen Lernplattformen, die Nutzung multimedialer Inhalte sowie kollaboratives Arbeiten. Anwendungen reichen von Textverarbeitung und Präsentation bis hin zu Simulationen und interaktiven Lernumgebungen.
+
+Frühere Annahmen, Computer würden im Unterricht lediglich als erweiterte Taschenrechner dienen, haben sich als zu kurz gegriffen erwiesen. Vielmehr eröffnen sie vielfältige didaktische Möglichkeiten, deren effektiver Einsatz bis heute Gegenstand der Forschung im Bereich technologiegestützten Lernens ist.
 
 <center><figure>
   <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/08_Personal_Computer_PC.jpg" alt="Abb. 8: Personal Computer (PC)">
