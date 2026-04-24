@@ -1,6 +1,6 @@
 <!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/pc-laptop-und-netbook -->
 <!-- slug: pc-und-laptop -->
-<!-- filename: 11_PC_und_Laptop.md -->
+<!-- filename: 08_PC_und_Laptop.md -->
 <!-- title: PC und Laptop -->
 
 Die Entwicklung des Personal Computers geht unter anderem auf Arbeiten von Konrad Zuse in den 1930er- und 1940er-Jahren zurück. Seitdem hat sich der Computer von einem spezialisierten Rechengerät zu einem universellen Werkzeug für Kommunikation, Informationsverarbeitung und Lernen entwickelt.
