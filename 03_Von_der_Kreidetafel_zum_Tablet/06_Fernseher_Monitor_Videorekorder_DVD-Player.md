@@ -1,6 +1,6 @@
 <!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/fernseher-monitor-videorekorder-dvd-player -->
 <!-- slug: fernseher-monitor-videorekorder-dvd-player -->
-<!-- filename: 08_Fernseher_Monitor_Videorekorder_DVD-Player.md -->
+<!-- filename: 06_Fernseher_Monitor_Videorekorder_DVD-Player.md -->
 <!-- title: Fernseher, Monitor, Videorekorder, DVD-Player -->
 
 Die Entwicklung des Fernsehens reicht bis ins späte 19. Jahrhundert zurück, unter anderem auf Arbeiten von Paul Nipkow. Im Laufe des 20. Jahrhunderts entwickelte sich die Technologie von mechanischen Systemen über analoge Röhrenbildschirme hin zu digitalen Flachbildschirmen. Heute dominieren hochauflösende Displays mit HD- und UHD-Standards, die eine qualitativ hochwertige Darstellung von Bild- und Videomaterial ermöglichen.
