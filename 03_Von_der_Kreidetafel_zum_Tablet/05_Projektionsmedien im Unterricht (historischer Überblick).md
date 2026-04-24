@@ -2,6 +2,11 @@ Projektionsmedien spielten über viele Jahrzehnte eine zentrale Rolle in der vis
 
 Der Diaprojektor, der Anfang des 20. Jahrhunderts entwickelt wurde, diente der Darstellung fotografischer Bilder auf Basis von Diapositiven. Er gehört zu den sogenannten Durchlichtprojektoren, bei denen Licht durch ein transparentes Bild geleitet und auf eine Projektionsfläche übertragen wird. Die Bedienung reichte von manuellen Geräten bis hin zu automatisierten Systemen mit Fernsteuerung. Mit dem Aufkommen digitaler Bildverarbeitung verlor diese Technik jedoch zunehmend an Bedeutung.
 
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/03_Diaprojektor.jpg" alt="Abb. 3: Diaprojektor">
+  <figcaption>Abb. 3: Diaprojektor</figcaption>
+</figure></center>
+
 Der Tageslichtprojektor (Overheadprojektor) ermöglichte es, vorbereitete Inhalte auf transparenten Folien ohne vollständige Abdunkelung des Raumes zu präsentieren. Er war besonders im schulischen Kontext weit verbreitet, da er eine flexible Kombination aus vorbereiteten und spontanen Ergänzungen erlaubte.
 
 Eine weitere Variante stellt der Epiprojektor dar, der im Gegensatz dazu auch undurchsichtige Vorlagen projizieren kann. Diese sogenannte Auflichtprojektion machte es möglich, Materialien direkt und ohne vorherige Aufbereitung darzustellen. Aufgrund technischer Einschränkungen, insbesondere der geringen Lichtausbeute, war jedoch meist eine Verdunkelung des Raumes erforderlich. Als moderne Weiterentwicklung gilt der Visualizer, der mithilfe einer Kamera Dokumente oder Objekte erfasst und digital an verschiedene Ausgabegeräte überträgt.
