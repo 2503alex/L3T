@@ -10,7 +10,7 @@ Im Bildungsbereich spielen Smartphones eine zentrale Rolle im mobilen Lernen (M-
 Gleichzeitig stellen Smartphones auch Herausforderungen dar. Schnelle Innovationszyklen bei Hard- und Software führen dazu, dass Geräte und Anwendungen rasch veralten oder sich verändern. Zudem erfordert ihr sinnvoller Einsatz ein hohes Maß an Medienkompetenz, sowohl bei Lernenden als auch bei Lehrenden.
 
 <center><figure>
-  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/11_Smartphone.png" alt="Abb. 11: Smartphone">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/11_Smartphone.jpg" alt="Abb. 11: Smartphone">
   <figcaption>Abb. 11: Mobiltelefon</figcaption>
 </figure></center>
 
