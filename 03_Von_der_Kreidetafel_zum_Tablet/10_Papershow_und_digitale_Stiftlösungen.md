@@ -1,6 +1,6 @@
 <!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/papershow -->
 <!-- slug: papershow digitale Stift Lösungen -->
-<!-- filename: 13_Papershow_und_digitale_Stift_Lösungen.md -->
+<!-- filename: 10_Papershow_und_digitale_Stift_Lösungen.md -->
 <!-- title: Papershow und digitale Stift Lösungen-->
 
 Papershow ist ein System zur Digitalisierung handschriftlicher Eingaben. Dabei wird mit einem speziellen Stift auf einem bedruckten Papier geschrieben, während eine integrierte Kamera die Bewegungen erfasst und in Echtzeit an einen Computer überträgt. Die Position der Eingabe wird über ein feines Punktraster auf dem Papier bestimmt, wodurch eine präzise digitale Darstellung entsteht.
