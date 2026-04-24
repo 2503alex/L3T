@@ -1,3 +1,8 @@
+<!-- URL: -->
+<!-- slug: KI -->
+<!-- filename: 13_Künstliche_Intelligenz_im_Unterricht.md -->
+<!-- title: Künstliche Intelligenz im Unterricht -->
+
 Künstliche Intelligenz (KI) hat in den letzten Jahren zunehmend an Bedeutung im Bildungsbereich gewonnen. Darunter versteht man Systeme, die in der Lage sind, auf Basis großer Datenmengen eigenständig Muster zu erkennen, Inhalte zu generieren oder Entscheidungen zu unterstützen. Im Unterricht eröffnet KI neue Möglichkeiten zur Individualisierung und Automatisierung von Lernprozessen.
 
 Ein bekanntes Beispiel ist ChatGPT, ein textbasiertes System, das Fragen beantworten, Inhalte erklären oder Texte generieren kann. Solche Anwendungen können von Lernenden zur Unterstützung beim Verstehen von Themen genutzt werden, etwa durch zusätzliche Erklärungen oder Zusammenfassungen. Lehrende können KI beispielsweise zur Erstellung von Aufgaben, Materialien oder Feedback einsetzen.
