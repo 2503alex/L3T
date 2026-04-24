@@ -1,6 +1,6 @@
 <!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/touchscreen -->
 <!-- slug: touchscreen -->
-<!-- filename: 09_Touchscreen.md -->
+<!-- filename: 07_Touchscreen.md -->
 <!-- title: Touchscreen -->
 
 Touchscreens ermöglichen die direkte Interaktion mit digitalen Inhalten durch Berührung des Bildschirms. Im Gegensatz zur klassischen Eingabe über Maus und Tastatur erfolgt die Steuerung unmittelbar mit dem Finger oder einem Eingabestift (Stylus). Diese Form der Interaktion hat sich insbesondere durch mobile Geräte wie Smartphones, Tablets und interaktive Displays weit verbreitet.
