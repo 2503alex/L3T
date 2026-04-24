@@ -1,3 +1,8 @@
+<!-- URL: -->
+<!-- slug: projektionsmedien -->
+<!-- filename: 05_Projektionsmedien_im_Unterricht_historischer_Überblick.md -->
+<!-- title: Projektionsmedien im Unterricht (historischer Überblick) -->
+
 Projektionsmedien spielten über viele Jahrzehnte eine zentrale Rolle in der visuellen Unterstützung von Unterricht. Sie ermöglichten es, Inhalte für größere Lerngruppen sichtbar zu machen und ergänzten damit die klassische Tafelarbeit.
 
 Der Diaprojektor, der Anfang des 20. Jahrhunderts entwickelt wurde, diente der Darstellung fotografischer Bilder auf Basis von Diapositiven. Er gehört zu den sogenannten Durchlichtprojektoren, bei denen Licht durch ein transparentes Bild geleitet und auf eine Projektionsfläche übertragen wird. Die Bedienung reichte von manuellen Geräten bis hin zu automatisierten Systemen mit Fernsteuerung. Mit dem Aufkommen digitaler Bildverarbeitung verlor diese Technik jedoch zunehmend an Bedeutung.
