@@ -1,1 +1,11 @@
+Projektionsmedien spielten über viele Jahrzehnte eine zentrale Rolle in der visuellen Unterstützung von Unterricht. Sie ermöglichten es, Inhalte für größere Lerngruppen sichtbar zu machen und ergänzten damit die klassische Tafelarbeit.
 
+Der Diaprojektor, der Anfang des 20. Jahrhunderts entwickelt wurde, diente der Darstellung fotografischer Bilder auf Basis von Diapositiven. Er gehört zu den sogenannten Durchlichtprojektoren, bei denen Licht durch ein transparentes Bild geleitet und auf eine Projektionsfläche übertragen wird. Die Bedienung reichte von manuellen Geräten bis hin zu automatisierten Systemen mit Fernsteuerung. Mit dem Aufkommen digitaler Bildverarbeitung verlor diese Technik jedoch zunehmend an Bedeutung.
+
+Der Tageslichtprojektor (Overheadprojektor) ermöglichte es, vorbereitete Inhalte auf transparenten Folien ohne vollständige Abdunkelung des Raumes zu präsentieren. Er war besonders im schulischen Kontext weit verbreitet, da er eine flexible Kombination aus vorbereiteten und spontanen Ergänzungen erlaubte.
+
+Eine weitere Variante stellt der Epiprojektor dar, der im Gegensatz dazu auch undurchsichtige Vorlagen projizieren kann. Diese sogenannte Auflichtprojektion machte es möglich, Materialien direkt und ohne vorherige Aufbereitung darzustellen. Aufgrund technischer Einschränkungen, insbesondere der geringen Lichtausbeute, war jedoch meist eine Verdunkelung des Raumes erforderlich. Als moderne Weiterentwicklung gilt der Visualizer, der mithilfe einer Kamera Dokumente oder Objekte erfasst und digital an verschiedene Ausgabegeräte überträgt.
+
+Mit dem Videoprojektor, häufig als Beamer bezeichnet, erfolgte schließlich der Übergang zur digitalen Projektion. Hier werden Bild- und Videosignale von Computern oder anderen Quellen direkt auf eine Projektionsfläche übertragen. Diese Technologie bildet bis heute die Grundlage vieler Präsentationssysteme.
+
+Insgesamt zeigt sich, dass sich Projektionsmedien von analogen, spezialisierten Geräten hin zu flexiblen, digitalen Lösungen entwickelt haben. Moderne Unterrichtstechnologien integrieren diese Funktionen zunehmend in multifunktionale Systeme wie interaktive Displays oder mobile Endgeräte.
