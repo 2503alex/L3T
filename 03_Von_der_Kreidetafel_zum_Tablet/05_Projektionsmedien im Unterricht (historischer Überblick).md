@@ -9,6 +9,11 @@ Der Diaprojektor, der Anfang des 20. Jahrhunderts entwickelt wurde, diente der D
 
 Der Tageslichtprojektor (Overheadprojektor) ermöglichte es, vorbereitete Inhalte auf transparenten Folien ohne vollständige Abdunkelung des Raumes zu präsentieren. Er war besonders im schulischen Kontext weit verbreitet, da er eine flexible Kombination aus vorbereiteten und spontanen Ergänzungen erlaubte.
 
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/04_Tageslichtprojektor.jpg" alt="Abb. 4: Tageslichtprojektor">
+  <figcaption>Abb. 4: Tageslichtprojektor</figcaption>
+</figure></center>
+
 Eine weitere Variante stellt der Epiprojektor dar, der im Gegensatz dazu auch undurchsichtige Vorlagen projizieren kann. Diese sogenannte Auflichtprojektion machte es möglich, Materialien direkt und ohne vorherige Aufbereitung darzustellen. Aufgrund technischer Einschränkungen, insbesondere der geringen Lichtausbeute, war jedoch meist eine Verdunkelung des Raumes erforderlich. Als moderne Weiterentwicklung gilt der Visualizer, der mithilfe einer Kamera Dokumente oder Objekte erfasst und digital an verschiedene Ausgabegeräte überträgt.
 
 Mit dem Videoprojektor, häufig als Beamer bezeichnet, erfolgte schließlich der Übergang zur digitalen Projektion. Hier werden Bild- und Videosignale von Computern oder anderen Quellen direkt auf eine Projektionsfläche übertragen. Diese Technologie bildet bis heute die Grundlage vieler Präsentationssysteme.
