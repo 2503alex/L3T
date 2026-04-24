@@ -7,7 +7,7 @@ Die ersten Touchscreens wurden schon 1940 entwickelt und schließlich mit Veröf
 
 <center><figure>
   <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/06_Touchscreen.jpg" alt="Abb. 6: Touchscreen">
-  <figcaption>Abb. 6: Touchscreen</figcaption>
+  <figcaption>Abb. 7: Touchscreen</figcaption>
 </figure></center>
 
 
