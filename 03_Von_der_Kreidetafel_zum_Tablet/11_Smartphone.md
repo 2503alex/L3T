@@ -1,6 +1,6 @@
 <!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/smartphone -->
 <!-- slug: smartphone -->
-<!-- filename: 14_Smartphone.md -->
+<!-- filename: 11_Smartphone.md -->
 <!-- title: Smartphone -->
 
 Smartphones haben sich in den letzten Jahren zu allgegenwärtigen digitalen Endgeräten entwickelt. Ausgestattet mit hochauflösenden Kameras, Internetzugang, Sensoren und Touchscreens vereinen sie zahlreiche Funktionen in einem einzigen Gerät. Ihre Vielseitigkeit wird insbesondere durch Anwendungen („Apps“) ermöglicht, die individuell installiert und genutzt werden können.
